@@ -1,3 +1,3 @@
 # Java Emulators to run Ancient Empires
 * **KEmulator** (Windows)
-* **microemulator** ()
+* **microemulator** (Windows / Linux / macOS)
